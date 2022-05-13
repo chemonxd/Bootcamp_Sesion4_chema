@@ -3,5 +3,5 @@ Este repositorio cuenta con los ejercicio número 7, 8 y 9, que corresponde al 1
 
 donde: 
   "edad.py" ejercico 1 de la sesión 4;
-  "pares.py" ejercicio 2 de la sesión 4:
-
+  "pares.py" ejercicio 2 de la sesión 4;
+  "ordeninverso.py" ejercicio3 de la sesión 4;
